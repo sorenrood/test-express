@@ -1,2 +1,2 @@
 # test-express
-test express server for replit deployments import from github flow
+express server test for replit deployments
